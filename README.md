@@ -1,6 +1,8 @@
 # talibFiles
 TA-LIB Files
 
+Source:
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 ### Python whl TA-Lib 
 
