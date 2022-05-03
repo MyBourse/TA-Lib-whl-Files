@@ -34,3 +34,11 @@ my step:
 
 7: install whl (in folder dist) to another device with pip3.8 install TA_Lib-0.4.19-cp38-cp38-linux_armv7l.whl
 ```
+
+with this command i create wheel file
+
+```
+python3.8 -m pip wheel --wheel-dir=/tmp/wheelhouse numpy
+python3.8 -m pip wheel --wheel-dir=/tmp/wheelhouse pandas
+```
+
